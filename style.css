@@ -1,0 +1,27 @@
+.title  {
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: brown;
+}
+
+
+.menu {
+    font-size: 80px;
+    text-align: left;
+    font-weight: bold;
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.food {
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+    font-size: 20px;
+}
